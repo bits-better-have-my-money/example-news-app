@@ -1,0 +1,6 @@
+### News Api Endpoint
+GET https://newsapi.org/v2/everything?q=giraffe
+Authorization: <YOUR API KEY>
+
+### Rails App Articles Index
+GET http://localhost:3000/articles?search=cats
